@@ -150,4 +150,5 @@ const getPlayer = async (page, team) => {
   //임대 확인
   return player;
 };
+
 clubs();
